@@ -21,4 +21,4 @@ jobs:
       run: npx jest upload.spec.ts
 
     - name: Run Jest Test
-      run: npm posts  
+      run: npx jest posts.spec.td 
